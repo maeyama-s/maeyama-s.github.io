@@ -232,21 +232,6 @@ body{
   background-color: #0168B4;
   transform: rotate(-70deg);
 }
-.action_btn a{
-  color: white;
-  text-decoration: none;
-  font-size: 20px;
-  background-color: #0168B4;
-  height: 70px;
-  width: 90%;
-  max-width: 500px;
-  border-radius: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin: 0 auto;
-  font-weight: bold;
-}
 .line-green{
   color: white;
   background-color: #00B900;
@@ -302,19 +287,6 @@ body{
     text-decoration: none;
     background: #00B900;
   }
-  /* .action_btn_2 {
-    display: block;
-    position: relative;
-  }
-  .action_btn_2:after {
-    content: "";
-    position: absolute;
-    top: 50%;
-    right: 30px;
-    width: 8px;
-    height: 8px;  
-    margin: -4px 0 0 0;
-  } */
 
 /* ---------------------------------- before ---------------------------------- */
 .before img{
@@ -715,12 +687,6 @@ body{
   }
   .action_message_1, .action_message_3{
     width: 65px;
-  }
-  .action_btn a {
-    font-size: 30px;
-    height: 100px;
-    width: 500px;
-    margin: 30px auto 100px auto;
   }
   .line-green{
     padding: 10px 20px;
