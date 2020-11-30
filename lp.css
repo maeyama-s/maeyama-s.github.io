@@ -821,7 +821,7 @@ body{
     width: 70%;
   }
   .reason_icons {
-    font-size: 77px;
+    font-size: 70px;
   }
   .reason_icon {
     height: 130px;
@@ -829,7 +829,7 @@ body{
     border-radius: 65px;
   }
   .mini {
-    font-size: 37px;
+    font-size: 35px;
   }
   /* ---------------------------------- fee ---------------------------------- */
   .fee_title, .fee_50000 {
@@ -901,12 +901,6 @@ body{
   /* ---------------------------------- after ---------------------------------- */
   /* ---------------------------------- choice ---------------------------------- */
   /* ---------------------------------- reason ---------------------------------- */
-  .reason_icons {
-    font-size: 90px;
-  }
-  .mini {
-    font-size: 45px;
-  }
   .reason_text {
     font-size: 20px;
   }
@@ -940,7 +934,7 @@ body{
     margin-top: 50px;
   }
   .flow_icons {
-    font-size: 90px;
+    font-size: 70px;
   }
   .flow_icon {
     height: 150px;
